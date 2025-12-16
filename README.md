@@ -42,4 +42,4 @@ A responsive, multilingual (EN/TR) website with custom CMS, appointment booking 
 
 ---
 
-*I leverage AI tools (Cursor IDE, GitHub Copilot) to accelerate development while maintaining full engineering ownership of architecture, debugging, testing, and deployment.*
+*I keep most repositories private due to client/privacy constraints. I can share selected repos or code samples upon request.*
