@@ -1,45 +1,47 @@
-# Saleh Aljaberi
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Engineer;Computer+Engineering+Student" alt="Typing SVG Headline" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salehaljaberi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saleh.k.aljaberi@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/salehaljaberi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saleh.k.aljaberi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## Full-Stack Developer | Computer Engineering Student
+<h3 align="center">👋 Hi, I'm Saleh Aljaberi</h3>
+<p align="center">
+  I am a Computer Engineering student at Dokuz Eylül University in İzmir, Türkiye. I specialize in <b>.NET architecture</b> and <b>Data/AI integration</b>, focusing on building high-performance, air-gapped enterprise systems. When I'm not writing code, you can usually find me training calisthenics or organizing functional fitness sessions.
+</p>
 
-Junior Full-Stack Developer specializing in React, Next.js, and TypeScript with UX focus and production experience. Currently studying Computer Engineering at Dokuz Eylül University while completing a 12-month AI-assisted full-stack development program.
+## 🧠 Developer Persona & Focus
 
-## Tech Stack
+```text
+Architecture & Backend (.NET, Node.js)   ███████████████████ 90%
+React & Frontend Ecosystem             ███████████████████ 90%
+Data Engineering (SQL, pgvector)       ████████████████░░░ 80%
+AI / Enterprise RAG Systems            ████████████████░░░ 80%
+DevOps (Docker, CI/CD)                 ████████████░░░░░░░ 60%
+```
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+## 🛠️ Tech Arsenal
 
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,ts,js,react,nextjs,tailwind,postgres,prisma,docker,git,figma,vercel&theme=dark&perline=8" alt="Tech Stack Icons" />
+  </a>
+</div>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+## 🚀 Featured Project
 
-## Featured Project
+<div align="center">
+  <a href="https://github.com/SalehAljaberi/FinQuery.Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAljaberi&repo=FinQuery.Api&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinQuery AI Pinned Repo" />
+  </a>
+</div>
 
-### Izmir Dental Clinic Website
-A responsive, multilingual (EN/TR) website with custom CMS, appointment booking system, and Twilio SMS notifications.
-
-`React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Express.js` `Supabase` `Hostinger VPS` `pm2` `Twilio API`
-
-
-
----
-
-*I keep most repositories private due to client/privacy constraints. I can share selected repos or code samples upon request.*
+<p align="center">
+  <em><strong>FinQuery AI</strong> - A local Enterprise Financial RAG Assistant built with C# ASP.NET Core 8, Next.js 15, and Microsoft Foundry Local SDK[cite: 1]. Engineered with dense semantic embeddings (1024-dim), hybrid retrieval (BM25 + RRF), and zero cloud dependencies for strict data privacy[cite: 1].</em>
+</p>
